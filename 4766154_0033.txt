@@ -1,0 +1,51 @@
+ 
+
+' “ &uncr- Sed, quod idem coniecit: μηδ’ εἰ νιτρώδεσι μηδ’ εἰ στυπτηριιιδεσιν pro μήτε
+
+’ν μήτε nm. ., non potuimus non amplecti comparantes neth. med. vol. X, 11.ss
+
+'mmcd-t οὔδ’ εἰ τὸ βλέπειν εἴποι τις ἔργον εἶναι τῶν ὀφθαλμῶν οὔδ’ εἰ τήν βλέψιν
+s οὔδ’ εἶ την ὅψιν“ η ὅρασιν” η ὅπως ἂν ἄλλως ὀνομάσῃ, διαφέρει, ibid Ρ. 101 a. med..
+
+οὐδὲ γάρ εἰ παρὰ φύσιν ὄγκος οὐδ’ εἰ ἀντίτυπος οὐδ’ ει ὀδυνηρὸς οὔδ’ εἰ ἐρυθρὸς
+κ. τ. λ. comment. ad Hipp. de rat. vict. in morb. ac. vol. XV, p. 434 med.:
+
+’,οὔτε γάρ εἰ γεννητὸς ὁ κόσμος οὔτ’ εἰ φθαρτὸς οὔτ’ εἰ μὴ κενόν ἐστιν ἔξωθεν
+
+aito& οὔτ’ εἰ ἄπειρος οὔτ’ εἰ μόνος οὗτος εἶς ἐστιν οὔτ’ εἰ πλείους- οὔτ’ εἴ πλῆ-
+
+”θος ἀπερίληπτον ἢ ἄπειρον αὐτῶν, ἕναργεῒ τεκμηρίῳ χρήσασθαι δυνατόν.
+
+σωφροσύνης οὖν φίλος] οὖν scripsi pro γοῦν, quod quoniam aut restrin-
+gentis sententiam (cf. Ρ. 15. 13 : ἄμεινον δὲ νῦν γοῦν σωφρονήσαντα κ. τ. λ.) aut exemplo
+confirmantis (cf. p. 12, 14: τὰ γοῦν ὖφ. ‘L κ. τ. λ.) est, non accommodatum videtur
+huic loce, ubi ratio ex antecedentibus concluditur.
+
+άσκ εῒν χρή] χρή in codd. edd. omissum recte Comes inseruit. Nam G„
+quae facere medicum vult, ca aut per Futurum (ὑπερόψεται - ἰάσεται —- ἀπολείψει)
+aut per χρή, ἀνάγκη, προσήκει indicat. Eiusmodi verbum ad h, l. cogitatione tan-
+
+” tnmmodo assumere vetant et ea, quae proxime antecedunt, et nova, quae a καὶ μὲν
+
+δὴ καί incipit, sententie.
+
+ἔνδειξίν τινα ἰαμάτων] ἔνδειξις quid sit, ipse definit de opt. Sect.
+vol. Ι, p. 131: ἐστι τοίνυν ἔνδειξις ἦ συμπροσπίπτουσα κατάληψις τοῦ ὠφελοῦντος ἅμα
+τῇ τοῦ βλάπτοντος καταλήψει ἄνευ τηρήσεως ἢ λογισμοῦ - ἢ οὕτως· ἔνδειξίς ἐστιν,
+ὅταν. καταλαμβανομένοις πράγμασι συμπροσπίπτῃ τὸ συμφέρον ἄνευ ἀποδείξεως καὶ
+παρατηρήσεως. Cum in illo libro tum in libris de Meth. fusius hac de re disputat.
+
+ἥ δ’ αὐτὴ μέθοδος] Bene Prantlius (Geschichte der Logik I, 560: ‘GaL
+sieht in der Logik nur cine dienstbare Methodik zum Behufe der iibrigen Wissen-
+sebasten, welche in Bezug auf alle Probleme und Gegenstiinde des wissenschaftlichen
+Suchens den Weg bahnt und als Beweisverfahren zum Wisscn ftihrt'. Nec alienum
+erit afferre Gal. de Loc. aff. vol. VIII, p. 138: λογικὰ γάρ ὅντως ἐστίν, ὅσα τῆς χρείας
+ἐπέκεινα προερχόμενα τήν φύσιν α’θρεῖ τῶν πραγμάτων, ὁποία τις ὑπάρχει κατὰ τὴν
+οἰκείαν οὐσίαν.
+
+ἐκ τῶν πρώτων στοιχείων —- ὀργανικῶν μερῶν.] Hanc Galeni de
+corporis humani compositione doctrinam cum alii, tum hi loci illustrant: Comm ent.
+in Hippo cr. de humor. vol. XVI, p. 33: ὡμολόγηται πάντα τὰ σώματα ἐκ τεττάρων
+τινὸν γενῦν συμπαγῆναι -, ἅπερ στοιχεῖα πάντες ὀνομάζουσιν - , ἐκ γῆς, πυρός,
+ὓδατος καὶ άέροςς ibid. p. 25: μὴ (νόει δὲ) τὰ σώματα ἐκ τῶν στοιχείων ἅπλῶς γεγο-
+
